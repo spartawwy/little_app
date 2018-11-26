@@ -135,3 +135,7 @@ page {
   line-height: 36rpx;
   word-break: break-all;
 }
+.canvas {
+    width: 80px;
+    height: 80px;
+}

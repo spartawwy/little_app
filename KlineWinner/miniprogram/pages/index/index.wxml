@@ -1,4 +1,7 @@
-<!--index.wxml-->
+
+<!-- item.id用于遍历 -->
+<canvas class="canvas" canvas-id="ringGraph{{ item.id }}"></canvas>
+
 <view class="container">
 
   <!-- 用户 openid -->
